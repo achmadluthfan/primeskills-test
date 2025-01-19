@@ -1,7 +1,5 @@
 # Comment API
 
-A RESTful API service for managing comments built with Go. This project follows clean architecture principles and SOLID design patterns.
-
 ## Project Structure
 
 ```
