@@ -15,3 +15,6 @@ go.sum
 
 # Build directory
 bin/
+
+# SQLite database file
+comments.db
