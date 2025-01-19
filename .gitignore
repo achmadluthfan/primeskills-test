@@ -1,0 +1,17 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Dependency directory (for vendoring)
+vendor/
+
+# Go module files
+go.sum
+
+# Build directory
+bin/
